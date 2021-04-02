@@ -1,1 +1,2 @@
-# trashcan
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
